@@ -10,6 +10,8 @@ This template is best used by developers looking for front-end restaurant websit
 
 Checkout the Figma Template that I created here: [Chocolatier Bakery Figma Template](https://www.figma.com/community/file/1635437306999238727)
 
+Checkout the Demo Video here: [Chocolatier Bakery Demo Video](https://youtu.be/1wHEGT5m0FQ)
+
 ## What This Template Does
 
 - Shows a restaurant-style landing page
